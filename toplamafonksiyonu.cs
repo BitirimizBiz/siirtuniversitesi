@@ -5,8 +5,8 @@ namespace toplama
  {
    public static int topla(int a,int b)
    {
-      int toplam = a+b; 
-      return toplam;
+      
+      return a+b;
    }
    
    public static void Main(string[] args)
